@@ -2,3 +2,4 @@ pytorch/pytorch:latest
 dustynv/onnxruntime:r32.7.1
 dustynv/pytorch:1.9-r32.7.1
 dustynv/tensorrt:8.6-r36.2.0
+nvcr.io/nvidia/l4t-tensorrt:r8.0.1-runtime
