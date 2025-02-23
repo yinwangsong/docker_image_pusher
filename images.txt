@@ -1,7 +1,1 @@
-pytorch/pytorch:latest
-dustynv/onnxruntime:r32.7.1
-dustynv/pytorch:1.9-r32.7.1
-dustynv/tensorrt:8.6-r36.2.0
-nvcr.io/nvidia/l4t-tensorrt:r8.0.1-runtime
-asappinc/ubuntu22:d47c0fe0c8e382a07bd7abff9d3d06a8398876f6
-pytorch/pytorch:2.3.1-cuda12.1-cudnn8-devel
+asappinc/ubuntu22
